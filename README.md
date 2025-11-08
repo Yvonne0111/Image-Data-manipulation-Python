@@ -1,1 +1,1 @@
-# Image-Data-manipulation-Python
+Image Data manipulation using Python
